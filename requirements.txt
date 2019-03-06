@@ -2,4 +2,6 @@ pandas
 numpy
 jupyter
 matplotlib
-sklearn
+scikit-learn
+graphviz
+pydotplus
