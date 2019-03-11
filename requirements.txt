@@ -1,7 +1,5 @@
 pandas
 numpy
-jupyter
+jupyterlab
 matplotlib
 scikit-learn
-graphviz
-pydotplus
