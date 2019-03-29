@@ -3,3 +3,5 @@ numpy
 jupyterlab
 matplotlib
 scikit-learn
+pydotplus
+graphviz
